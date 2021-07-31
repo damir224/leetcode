@@ -12,7 +12,7 @@ var containsDuplicate = function(nums:number[]):boolean {
 };
 ```
 
-![через словарик](./screenshots/1.%20Contains%20Duplicate/v1_dict.png "через словарик")
+![через словарик](../../screenshots/1.%20Contains%20Duplicate/v1_dict.png "через словарик")
 
 > второе решение в одну строчку, хотя и длинную
 
