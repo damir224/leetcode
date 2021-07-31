@@ -12,7 +12,7 @@ var containsDuplicate = function(nums:number[]):boolean {
 };
 ```
 
-![через словарик](screenshots/1. Contains Duplicate/v1_dict.png "через словарик")
+![через словарик](./screenshots/1.%20Contains%20Duplicate/v1_dict.png "через словарик")
 
 > второе решение в одну строчку, хотя и длинную
 
@@ -30,7 +30,7 @@ var containsDuplicate = function(nums: number[]):boolean {
 };
 ```
 
-![в одну строку](screenshots/1.%20Contains%20Duplicate/v2_one_line.png "в одну строку")
+![в одну строку](./screenshots/1.%20Contains%20Duplicate/v2_one_line.png "в одну строку")
 
 > решил попробовать через Set, оказалось самым оптимальным
 
@@ -40,4 +40,4 @@ var containsDuplicate = function (nums: number[]): boolean {
 };
 ```
 
-![через Set](screenshots/v3_with_set.png "через Set")
+![через Set](./screenshots/1.%20Contains%20Duplicate/v3_with_set.png "через Set")
