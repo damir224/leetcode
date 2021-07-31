@@ -1,3 +1,13 @@
+ссылка на задачу 
+
+https://leetcode.com/problems/contains-duplicate/
+
+нужно вернуть true, если в массиве есть число, которое повторяется хотя бы один раз
+
+[1,2,3,1] // true
+[1,2,3,4] // false
+[1,1,1,3,3,4,3,2,4,2] // true
+
 > Первое решение через словарик
 
 ```ts
@@ -14,10 +24,13 @@ var containsDuplicate = function(nums:number[]):boolean {
 
 ![через словарик](../../screenshots/1.%20Contains%20Duplicate/v1_dict.png "через словарик")
 
-> второе решение в одну строчку, хотя и длинную
+> второе решение такое же как и первое, но в одну строчку, хотя и длинную
 
 ```ts
 var containsDuplicate = function(nums: number[]):boolean {
+  // через reduce возвращаю объект,где ключ - цифра, значение - сколько эта цифра встречается раз, например:
+  // **{'1': 2}**
+  // через Object.values получаем масив значений, и проверяем, есть ли значения которые больше нуля
   return Object.values(nums.reduce((accumulator, currentValue) => {
     if (accumulator[currentValue]) {
       accumulator[currentValue]++
@@ -36,6 +49,7 @@ var containsDuplicate = function(nums: number[]):boolean {
 
 ```ts
 var containsDuplicate = function (nums: number[]): boolean {
+  // Set возвращает массив уникальных значений, и делаем проверку длинны
   return [...new Set(nums)].length !== nums.length
 };
 ```
