@@ -26,6 +26,10 @@ var containsDuplicate = function(nums:number[]):boolean {
 
 > второе решение такое же как и первое, но в одну строчку, хотя и длинную
 
+сложность данного алгоритма 
+по времени: O(n^2) - потому, что есть reduce and filter
+по памяти: O(n) - потому, что создаю массив через filter
+
 ```ts
 var containsDuplicate = function(nums: number[]):boolean {
   // через reduce возвращаю объект,где ключ - цифра, значение - сколько эта цифра встречается раз, например:
@@ -43,9 +47,14 @@ var containsDuplicate = function(nums: number[]):boolean {
 };
 ```
 
+
 ![в одну строку](../../screenshots/1.%20Contains%20Duplicate/v2_one_line.png "в одну строку")
 
 > решил попробовать через Set, оказалось самым оптимальным
+
+сложность данного алгоритма 
+по времени: O(1) - потому, что при изменении исходного массива, операции не добавятся
+по памяти: O(n^2) - потому, что создаю массив через Set и деструктуризирую
 
 ```ts
 var containsDuplicate = function (nums: number[]): boolean {
