@@ -7,7 +7,7 @@ https://leetcode.com/problems/contains-duplicate/
 [1,2,3,1] // true
 [1,2,3,4] // false
 [1,1,1,3,3,4,3,2,4,2] // true
-
+---
 > Первое решение через словарик
 
 сложность данного алгоритма
@@ -29,7 +29,7 @@ var containsDuplicate = function(nums:number[]):boolean {
 ```
 
 ![через словарик](../../screenshots/1.%20Contains%20Duplicate/v1_dict.png "через словарик")
-
+---
 > второе решение такое же как и первое, но в одну строчку, хотя и длинную
 
 сложность данного алгоритма
@@ -57,7 +57,7 @@ var containsDuplicate = function(nums: number[]):boolean {
 
 
 ![в одну строку](../../screenshots/1.%20Contains%20Duplicate/v2_one_line.png "в одну строку")
-
+---
 > решил попробовать через Set, оказалось самым оптимальным
 
 сложность данного алгоритма
