@@ -5,8 +5,11 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 дан массив целых чисел, найти наибольшую разницу между числами
 
 maxProfit([7,1,5,3,6,4]) // 5
+
 maxProfit([7,6,4,3,1]) // 0
+
 maxProfit([2, 1, 4]) // 3
+
 maxProfit([2,4,1]) // 2
 ---
 
