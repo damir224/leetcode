@@ -5,14 +5,16 @@ https://leetcode.com/problems/climbing-stairs/
 дан не пустой массив целых чисел, все элементы повторяются дважды кроме одного, найти не повторяющиайся элемент
 
 findDisappearedNumbers(2) // 2
-<!-- Explanation: There are two ways to climb to the top.
+Explanation: There are two ways to climb to the top.
 1. 1 step + 1 step
-2. 2 steps -->
+2. 2 steps
+
 findDisappearedNumbers(3) // 3
-<!-- Explanation: There are three ways to climb to the top.
+Explanation: There are three ways to climb to the top.
 1. 1 step + 1 step + 1 step
 2. 1 step + 2 steps
-3. 2 steps + 1 step -->
+3. 2 steps + 1 step
+
 [1] // 1
 ---
 

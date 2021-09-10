@@ -5,6 +5,7 @@ https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 Из массива целых чисел от [0, n], нужно вернуть только одно число, которое пропущено в массиве.
 
 [4,3,2,7,8,2,3,1] // [5, 6]
+
 [1,1] // [2]
 ---
 
@@ -28,10 +29,6 @@ function findDisappearedNumbers(nums: number[]): number[] {
 };
 ```
 
-![в лоб](../../screenshots/3.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/v1_forhead.png "в лоб")
----
-
-
 ---
 
 > Второе посмотрел
@@ -48,7 +45,6 @@ Cyclic Sort
 ```ts
 
 ```
-![в лоб](../../screenshots/3.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/v1_forhead.png "в лоб")
 ---
 
 > Третье посмотрел
@@ -77,7 +73,6 @@ function findDisappearedNumbers(nums: number[]): number[] {
   , [])
 };
 ```
-v3_mark%20negative
 ![в лоб](../../screenshots/3.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/v3_mark%20negative.png "в лоб")
 ---
 
