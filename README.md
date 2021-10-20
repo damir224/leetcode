@@ -10,3 +10,11 @@ https://seanprashad.com/leetcode-patterns/
 - [6. Best Time to Buy and Sell Stock](./docs/6.BestTimeToBuyAndSellStock)
 - [7. Maximum Subarray](./docs/7.MaximumSubarray)
 - [8. Range Sum Query Immutable](./docs/8.RangeSumQueryImmutable)
+- [9. Counting Bits](./docs/9.CountingBits)
+- [10. Linked List Cycle](./docs/10.LinkedListCycle)
+
+
+- [682. Baseball Game](./docs/682.BaseballGame)
+- [1342. Number of Steps to Reduce a Number to Zero](./docs/1342.NumberofStepstoReduceaNumbertoZero)
+- [1486. XOR Operation in an Array](./docs/1486.XOROperationinanArray)
+- [1720. Decode XORed Array](./docs/1720.DecodeXORedArray)

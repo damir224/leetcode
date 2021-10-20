@@ -2,12 +2,19 @@
 
 https://leetcode.com/problems/range-sum-query-immutable/
 
-реализовать класс, на вход массив, ["NumArray", "sumRange", "sumRange", "sumRange"], где  NumArray - входной массив, sumRange - три промежутка
+реализовать класс, на вход массив, ["NumArray", "sumRange", "sumRange", "sumRange"], 
+
+где  NumArray - входной массив, sumRange - три промежутка
+
 
 NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);
+
 numArray.sumRange(0, 2); // return (-2) + 0 + 3 = 1
+
 numArray.sumRange(2, 5); // return 3 + (-5) + 2 + (-1) = -1
+
 numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
+
 ---
 на js
 ```js
@@ -26,7 +33,7 @@ var NumArray = function(nums) {
  };
 ```
 ---
-на ts медленеее
+на ts медленее
 ```ts
 class NumArray {
   constructor(public nums: number[]) {
