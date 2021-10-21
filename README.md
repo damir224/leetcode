@@ -17,4 +17,5 @@ https://seanprashad.com/leetcode-patterns/
 - [682. Baseball Game](./docs/682.BaseballGame)
 - [1342. Number of Steps to Reduce a Number to Zero](./docs/1342.NumberofStepstoReduceaNumbertoZero)
 - [1486. XOR Operation in an Array](./docs/1486.XOROperationinanArray)
+- [1614. Maximum Nesting Depth of the Parentheses](./docs/1614.MaximumNestingDepthoftheParentheses)
 - [1720. Decode XORed Array](./docs/1720.DecodeXORedArray)
