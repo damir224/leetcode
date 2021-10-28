@@ -59,3 +59,5 @@ MinStack.prototype.getMin = function() {
  minStack.pop();
  console.log(`minStack.top()`, minStack.top())  // return 0
  console.log(`minStack.getMin()`, minStack.getMin()); // return -2
+
+ 
