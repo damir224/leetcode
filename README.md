@@ -15,6 +15,7 @@ https://seanprashad.com/leetcode-patterns/
 
 
 - [155. Min Stack](./docs/155.MinStack)
+- [231. Power of Two](./docs/231.PowerofTwo)
 - [387. First Unique Character in a String](./docs/387.FirstUniqueCharacterinaString)
 - [682. Baseball Game](./docs/682.BaseballGame)
 - [724. Find Pivot Index](./docs/724.FindPivotIndex)
