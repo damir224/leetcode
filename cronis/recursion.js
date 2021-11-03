@@ -3,10 +3,8 @@ const task1 = (n) => {
     return 0;
   }
   const exeptLast = task1(Math.floor(n / 10));
-  // console.log(`exeptLast`, exeptLast)
   const curDigit = n % 10;
-  console.log(`curDigit`, curDigit)
   return exeptLast + curDigit
 }
 
-task1(1234)
+console.log(`task1(1234)`, task1(1234))
