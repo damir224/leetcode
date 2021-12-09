@@ -21,13 +21,15 @@ node3.next = node4;
 
 var hasCycle = function(head) {
   let fast=head, slow=head;
-  while(fast !== null && fast.next !== null && fast.next.next !== null) {
-      slow = slow.next
-      fast = fast.next.next
+  while(fast !== null && fast?.next !== null && fast?.next?.next !== null) {
+      slow = slow?.next
+      fast = fast?.next?.next
       if(fast === slow) {
           return true
       }
   }
   return false
 };
+
+console.log(`hasCycle([3,2,0,-4])`, hasCycle([3,2,0,-4]))
 
