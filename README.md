@@ -5,6 +5,7 @@ https://seanprashad.com/leetcode-patterns/
 
 - [53. Maximum Subarray](./docs/53.MaximumSubarray)
 - [70. Climbing Stairs](./docs/70.ClimbingStairs)
+- [83. Remove Duplicates from Sorted List](./docs/83.RemoveDuplicatesfromSortedList)
 - [121. Best Time to Buy and Sell Stock](./docs/121.BestTimeToBuyAndSellStock)
 - [136. Single Number](./docs/136.SingleNumber)
 - [141. Linked List Cycle](./docs/141.LinkedListCycle)
