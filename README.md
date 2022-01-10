@@ -3,6 +3,9 @@
 https://seanprashad.com/leetcode-patterns/
 
 
+- [1. Two Sum](./docs/1.TwoSum)
+- [9. Palindrome Number](./docs/9.PalindromeNumber)
+- [21. Merge Two Sorted Lists](./docs/21.MergeTwoSortedLists)
 - [53. Maximum Subarray](./docs/53.MaximumSubarray)
 - [70. Climbing Stairs](./docs/70.ClimbingStairs)
 - [83. Remove Duplicates from Sorted List](./docs/83.RemoveDuplicatesfromSortedList)
@@ -11,6 +14,7 @@ https://seanprashad.com/leetcode-patterns/
 - [141. Linked List Cycle](./docs/141.LinkedListCycle)
 - [155. Min Stack](./docs/155.MinStack)
 - [203. Remove Linked List Elements](./docs/203.RemoveLinkedListElements)
+- [206. Reverse Linked List](./docs/206.ReverseLinkedList)
 - [217. Contains Duplicate](./docs/217.ContainsDuplicate)
 - [231. Power of Two](./docs/231.PowerofTwo)
 - [234. Palindrome Linked List](./docs/234.PalindromeLinkedList)
@@ -20,8 +24,11 @@ https://seanprashad.com/leetcode-patterns/
 - [338. Counting Bits](./docs/338.CountingBits)
 - [387. First Unique Character in a String](./docs/387.FirstUniqueCharacterinaString)
 - [448. Find All Numbers Disappeared in an Array](./docs/448.FindAllNumbersDisappearedinanArray)
+- [643. Maximum Average Subarray I](./docs/643.MaximumAverageSubarrayI)
 - [682. Baseball Game](./docs/682.BaseballGame)
+- [704. Binary Search](./docs/704.BinarySearch)
 - [724. Find Pivot Index](./docs/724.FindPivotIndex)
+- [841. Keys and Rooms](./docs/841.KeysandRooms)
 - [876. Middle of the Linked List](./docs/876.MiddleoftheLinkedList)
 - [977. Squares of a Sorted Array](./docs/977.SquaresofaSortedArray)
 - [1290. Convert Binary Number in a Linked List to Integer](./docs/1290.ConvertBinaryNumberinaLinkedListtoInteger)
