@@ -31,6 +31,7 @@ https://seanprashad.com/leetcode-patterns/
 - [841. Keys and Rooms](./docs/841.KeysandRooms)
 - [876. Middle of the Linked List](./docs/876.MiddleoftheLinkedList)
 - [977. Squares of a Sorted Array](./docs/977.SquaresofaSortedArray)
+- [1020. Number of Enclaves](./docs/1020.NumberofEnclaves)
 - [1290. Convert Binary Number in a Linked List to Integer](./docs/1290.ConvertBinaryNumberinaLinkedListtoInteger)
 - [1342. Number of Steps to Reduce a Number to Zero](./docs/1342.NumberofStepstoReduceaNumbertoZero)
 - [1486. XOR Operation in an Array](./docs/1486.XOROperationinanArray)
