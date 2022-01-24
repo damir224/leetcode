@@ -28,7 +28,6 @@ https://seanprashad.com/leetcode-patterns/
 - [682. Baseball Game](./docs/682.BaseballGame)
 - [704. Binary Search](./docs/704.BinarySearch)
 - [724. Find Pivot Index](./docs/724.FindPivotIndex)
-- [841. Keys and Rooms](./docs/841.KeysandRooms)
 - [876. Middle of the Linked List](./docs/876.MiddleoftheLinkedList)
 - [977. Squares of a Sorted Array](./docs/977.SquaresofaSortedArray)
 - [1290. Convert Binary Number in a Linked List to Integer](./docs/1290.ConvertBinaryNumberinaLinkedListtoInteger)
@@ -41,4 +40,6 @@ https://seanprashad.com/leetcode-patterns/
 ## Graphs
 
 - [54. Spiral Matrix](./docs/54.SpiralMatrix)
+- [59. Spiral Matrix II](./docs/59.SpiralMatrixII)
+- [841. Keys and Rooms](./docs/841.KeysandRooms)
 - [1020. Number of Enclaves](./docs/1020.NumberofEnclaves)
