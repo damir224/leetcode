@@ -37,6 +37,9 @@ https://seanprashad.com/leetcode-patterns/
 - [1720. Decode XORed Array](./docs/1720.DecodeXORedArray)
 - [1812. Determine Color of a Chessboard Square](./docs/1812.DetermineColorofaChessboardSquare)
 
+## String
+- [520. Detect Capital](./docs/520.DetectCapital)
+
 ## Graphs
 
 - [54. Spiral Matrix](./docs/54.SpiralMatrix)
