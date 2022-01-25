@@ -40,6 +40,9 @@ https://seanprashad.com/leetcode-patterns/
 ## String
 - [520. Detect Capital](./docs/520.DetectCapital)
 
+## Search
+- [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
+
 ## Graphs
 
 - [54. Spiral Matrix](./docs/54.SpiralMatrix)
