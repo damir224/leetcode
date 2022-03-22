@@ -38,7 +38,9 @@ https://seanprashad.com/leetcode-patterns/
 - [1812. Determine Color of a Chessboard Square](./docs/1812.DetermineColorofaChessboardSquare)
 
 ## String
+- [14. Longest Common Prefix](./docs/14.LongestCommonPrefix)
 - [520. Detect Capital](./docs/520.DetectCapital)
+- [856. Score of Parentheses](./docs/856.ScoreofParentheses)
 
 ## Search
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
