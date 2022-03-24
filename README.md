@@ -41,6 +41,7 @@ https://seanprashad.com/leetcode-patterns/
 - [14. Longest Common Prefix](./docs/14.LongestCommonPrefix)
 - [520. Detect Capital](./docs/520.DetectCapital)
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
+- [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
 
 ## Search
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
