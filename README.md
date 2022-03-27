@@ -43,6 +43,9 @@ https://seanprashad.com/leetcode-patterns/
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
 
+## Array
+- [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
+
 ## Search
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
 
@@ -52,3 +55,7 @@ https://seanprashad.com/leetcode-patterns/
 - [59. Spiral Matrix II](./docs/59.SpiralMatrixII)
 - [841. Keys and Rooms](./docs/841.KeysandRooms)
 - [1020. Number of Enclaves](./docs/1020.NumberofEnclaves)
+
+## Sort
+### Radix Sort
+- [912. Sort an Array](./docs/912.SortanArray)
