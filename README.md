@@ -45,6 +45,7 @@ https://seanprashad.com/leetcode-patterns/
 
 ## Array
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
 ## Search
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
