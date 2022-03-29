@@ -41,9 +41,11 @@ https://seanprashad.com/leetcode-patterns/
 - [14. Longest Common Prefix](./docs/14.LongestCommonPrefix)
 - [520. Detect Capital](./docs/520.DetectCapital)
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
+- [1358. Number of Substrings Containing All Three Characters](./docs/1358.NumberofSubstringsContainingAllThreeCharacters)
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
 
 ## Array
+- [287. Find the Duplicate Number](./docs/287.FindtheDuplicateNumber)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
