@@ -50,6 +50,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
 ## Search
+- [35. Search Insert Position](./docs/35.SearchInsertPosition)
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
 
 ## Graphs
