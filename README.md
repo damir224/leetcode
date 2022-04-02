@@ -45,6 +45,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
 
 ## Array
+- [189. Rotate Array](./docs/189.RotateArray)
 - [287. Find the Duplicate Number](./docs/287.FindtheDuplicateNumber)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
@@ -52,6 +53,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Search
 - [35. Search Insert Position](./docs/35.SearchInsertPosition)
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
+- [278. First Bad Version](./docs/278.FirstBadVersion)
 
 ## Graphs
 
