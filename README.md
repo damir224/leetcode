@@ -40,6 +40,7 @@ https://seanprashad.com/leetcode-patterns/
 ## String
 - [14. Longest Common Prefix](./docs/14.LongestCommonPrefix)
 - [520. Detect Capital](./docs/520.DetectCapital)
+- [680. Valid Palindrome II](./docs/680.ValidPalindromeII)
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
 - [1358. Number of Substrings Containing All Three Characters](./docs/1358.NumberofSubstringsContainingAllThreeCharacters)
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
