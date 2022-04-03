@@ -46,6 +46,8 @@ https://seanprashad.com/leetcode-patterns/
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
 
 ## Array
+- [31. Next Permutation](./docs/31.NextPermutation)
+- [167. Two Sum II - Input Array Is Sorted](./docs/167.TwoSumII-InputArrayIsSorted)
 - [189. Rotate Array](./docs/189.RotateArray)
 - [287. Find the Duplicate Number](./docs/287.FindtheDuplicateNumber)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
