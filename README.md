@@ -39,13 +39,16 @@ https://seanprashad.com/leetcode-patterns/
 
 ## String
 - [14. Longest Common Prefix](./docs/14.LongestCommonPrefix)
+- [344. Reverse String](./docs/344.ReverseString)
 - [520. Detect Capital](./docs/520.DetectCapital)
+- [557. Reverse Words in a String III](./docs/557.ReverseWordsinaStringIII)
 - [680. Valid Palindrome II](./docs/680.ValidPalindromeII)
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
 - [1358. Number of Substrings Containing All Three Characters](./docs/1358.NumberofSubstringsContainingAllThreeCharacters)
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
 
 ## Array
+- [11. Container With Most Water](./docs/11.ContainerWithMostWater)
 - [31. Next Permutation](./docs/31.NextPermutation)
 - [167. Two Sum II - Input Array Is Sorted](./docs/167.TwoSumII-InputArrayIsSorted)
 - [189. Rotate Array](./docs/189.RotateArray)
@@ -64,6 +67,10 @@ https://seanprashad.com/leetcode-patterns/
 - [59. Spiral Matrix II](./docs/59.SpiralMatrixII)
 - [841. Keys and Rooms](./docs/841.KeysandRooms)
 - [1020. Number of Enclaves](./docs/1020.NumberofEnclaves)
+
+## Linked List
+- [19. Remove Nth Node From End of List](./docs/19.RemoveNthNodeFromEndofList)
+- [1721. Swapping Nodes in a Linked List](./docs/1721.SwappingNodesinaLinkedList)
 
 ## Sort
 ### Radix Sort
