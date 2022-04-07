@@ -38,10 +38,12 @@ https://seanprashad.com/leetcode-patterns/
 - [1812. Determine Color of a Chessboard Square](./docs/1812.DetermineColorofaChessboardSquare)
 
 ## String
+- [3. Longest Substring Without Repeating Characters](./docs/3.LongestSubstringWithoutRepeatingCharacters)
 - [14. Longest Common Prefix](./docs/14.LongestCommonPrefix)
 - [344. Reverse String](./docs/344.ReverseString)
 - [520. Detect Capital](./docs/520.DetectCapital)
 - [557. Reverse Words in a String III](./docs/557.ReverseWordsinaStringIII)
+- [567. Permutation in String](./docs/567.PermutationinString)
 - [680. Valid Palindrome II](./docs/680.ValidPalindromeII)
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
 - [1358. Number of Substrings Containing All Three Characters](./docs/1358.NumberofSubstringsContainingAllThreeCharacters)
@@ -53,6 +55,8 @@ https://seanprashad.com/leetcode-patterns/
 - [167. Two Sum II - Input Array Is Sorted](./docs/167.TwoSumII-InputArrayIsSorted)
 - [189. Rotate Array](./docs/189.RotateArray)
 - [287. Find the Duplicate Number](./docs/287.FindtheDuplicateNumber)
+- [923. 3Sum With Multiplicity](./docs/923.3SumWithMultiplicity)
+- [1046. Last Stone Weight](./docs/1046.LastStoneWeight)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
@@ -65,6 +69,8 @@ https://seanprashad.com/leetcode-patterns/
 
 - [54. Spiral Matrix](./docs/54.SpiralMatrix)
 - [59. Spiral Matrix II](./docs/59.SpiralMatrixII)
+- [695. Max Area of Island](./docs/695.MaxAreaofIsland)
+- [733. Flood Fill](./docs/733.FloodFill)
 - [841. Keys and Rooms](./docs/841.KeysandRooms)
 - [1020. Number of Enclaves](./docs/1020.NumberofEnclaves)
 
