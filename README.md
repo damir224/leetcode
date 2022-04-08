@@ -81,6 +81,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Tree
 - [116. Populating Next Right Pointers in Each Node](./docs/116.PopulatingNextRightPointersinEachNode)
 - [617. Merge Two Binary Trees](./docs/617.MergeTwoBinaryTrees)
+- [703. Kth Largest Element in a Stream](./docs/703.KthLargestElementinaStream)
 
 
 ## Sort
