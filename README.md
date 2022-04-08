@@ -78,6 +78,10 @@ https://seanprashad.com/leetcode-patterns/
 - [19. Remove Nth Node From End of List](./docs/19.RemoveNthNodeFromEndofList)
 - [1721. Swapping Nodes in a Linked List](./docs/1721.SwappingNodesinaLinkedList)
 
+## Tree
+- [617. Merge Two Binary Trees](./docs/617.MergeTwoBinaryTrees)
+
+
 ## Sort
 ### Radix Sort
 - [912. Sort an Array](./docs/912.SortanArray)
