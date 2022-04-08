@@ -79,6 +79,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1721. Swapping Nodes in a Linked List](./docs/1721.SwappingNodesinaLinkedList)
 
 ## Tree
+- [116. Populating Next Right Pointers in Each Node](./docs/116.PopulatingNextRightPointersinEachNode)
 - [617. Merge Two Binary Trees](./docs/617.MergeTwoBinaryTrees)
 
 
