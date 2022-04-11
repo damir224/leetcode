@@ -55,8 +55,11 @@ https://seanprashad.com/leetcode-patterns/
 - [167. Two Sum II - Input Array Is Sorted](./docs/167.TwoSumII-InputArrayIsSorted)
 - [189. Rotate Array](./docs/189.RotateArray)
 - [287. Find the Duplicate Number](./docs/287.FindtheDuplicateNumber)
+- [542. 01 Matrix](./docs/542.01Matrix)
+- [994. Rotting Oranges](./docs/994.RottingOranges)
 - [923. 3Sum With Multiplicity](./docs/923.3SumWithMultiplicity)
 - [1046. Last Stone Weight](./docs/1046.LastStoneWeight)
+- [1260. Shift 2D Grid](./docs/1260.Shift2DGrid)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
