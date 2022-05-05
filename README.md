@@ -45,6 +45,7 @@ https://seanprashad.com/leetcode-patterns/
 - [557. Reverse Words in a String III](./docs/557.ReverseWordsinaStringIII)
 - [567. Permutation in String](./docs/567.PermutationinString)
 - [680. Valid Palindrome II](./docs/680.ValidPalindromeII)
+- [844. Backspace String Compare](./docs/844.BackspaceStringCompare)
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
 - [1358. Number of Substrings Containing All Three Characters](./docs/1358.NumberofSubstringsContainingAllThreeCharacters)
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
@@ -61,6 +62,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1046. Last Stone Weight](./docs/1046.LastStoneWeight)
 - [1260. Shift 2D Grid](./docs/1260.Shift2DGrid)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
+- [1631. Path With Minimum Effort](./docs/1631.PathWithMinimumEffort)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
 ## Search
@@ -90,3 +92,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Sort
 ### Radix Sort
 - [912. Sort an Array](./docs/912.SortanArray)
+
+
+## Stack
+- [225. Implement Stack using Queues](./docs/225.ImplementStackusingQueues)
