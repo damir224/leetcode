@@ -47,6 +47,7 @@ https://seanprashad.com/leetcode-patterns/
 - [680. Valid Palindrome II](./docs/680.ValidPalindromeII)
 - [844. Backspace String Compare](./docs/844.BackspaceStringCompare)
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
+- [1209. Remove All Adjacent Duplicates in String II](./docs/1209.RemoveAllAdjacentDuplicatesinStringII)
 - [1358. Number of Substrings Containing All Three Characters](./docs/1358.NumberofSubstringsContainingAllThreeCharacters)
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
 
