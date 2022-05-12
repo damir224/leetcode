@@ -51,6 +51,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1209. Remove All Adjacent Duplicates in String II](./docs/1209.RemoveAllAdjacentDuplicatesinStringII)
 - [1358. Number of Substrings Containing All Three Characters](./docs/1358.NumberofSubstringsContainingAllThreeCharacters)
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
+- [2164. Sort Even and Odd Indices Independently](./docs/2164.SortEvenandOddIndicesIndependently)
 
 ## Array
 - [11. Container With Most Water](./docs/11.ContainerWithMostWater)
