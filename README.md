@@ -40,6 +40,7 @@ https://seanprashad.com/leetcode-patterns/
 ## String
 - [3. Longest Substring Without Repeating Characters](./docs/3.LongestSubstringWithoutRepeatingCharacters)
 - [14. Longest Common Prefix](./docs/14.LongestCommonPrefix)
+- [20. Valid Parentheses](./docs/20.ValidParentheses)
 - [125. Valid Palindrome](./docs/125.ValidPalindrome)
 - [344. Reverse String](./docs/344.ReverseString)
 - [520. Detect Capital](./docs/520.DetectCapital)
