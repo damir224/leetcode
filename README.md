@@ -84,6 +84,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1020. Number of Enclaves](./docs/1020.NumberofEnclaves)
 
 ## Linked List
+- [2. Add Two Numbers](./docs/2.AddTwoNumbers)
 - [19. Remove Nth Node From End of List](./docs/19.RemoveNthNodeFromEndofList)
 - [1721. Swapping Nodes in a Linked List](./docs/1721.SwappingNodesinaLinkedList)
 
