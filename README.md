@@ -73,7 +73,9 @@ https://seanprashad.com/leetcode-patterns/
 - [35. Search Insert Position](./docs/35.SearchInsertPosition)
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
 - [278. First Bad Version](./docs/278.FirstBadVersion)
+- [367. Valid Perfect Square](./docs/367.ValidPerfectSquare)
 - [374. Guess Number Higher or Lower](./docs/374.GuessNumberHigherorLower)
+- [852. Peak Index in a Mountain Array](./docs/852.PeakIndexinaMountainArray)
 
 ## Graphs
 
