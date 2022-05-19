@@ -70,6 +70,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
 ## Search
+- [34. Find First and Last Position of Element in Sorted Array](./docs/34.FindFirstandLastPositionofElementinSortedArray)
 - [35. Search Insert Position](./docs/35.SearchInsertPosition)
 - [69. Sqrt(x)](./docs/69.Sqrt(x))
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
