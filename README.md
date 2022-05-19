@@ -75,6 +75,7 @@ https://seanprashad.com/leetcode-patterns/
 - [278. First Bad Version](./docs/278.FirstBadVersion)
 - [367. Valid Perfect Square](./docs/367.ValidPerfectSquare)
 - [374. Guess Number Higher or Lower](./docs/374.GuessNumberHigherorLower)
+- [744. Find Smallest Letter Greater Than Target](./docs/744.FindSmallestLetterGreaterThanTarget)
 - [852. Peak Index in a Mountain Array](./docs/852.PeakIndexinaMountainArray)
 - [1385. Find the Distance Value Between Two Arrays](./docs/1385.FindtheDistanceValueBetweenTwoArrays)
 
