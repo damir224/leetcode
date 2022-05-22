@@ -82,6 +82,7 @@ https://seanprashad.com/leetcode-patterns/
 - [852. Peak Index in a Mountain Array](./docs/852.PeakIndexinaMountainArray)
 - [1385. Find the Distance Value Between Two Arrays](./docs/1385.FindtheDistanceValueBetweenTwoArrays)
 - [1539. Kth Missing Positive Number](./docs/1539.KthMissingPositiveNumber)
+- [1608. Special Array With X Elements Greater Than or Equal X](./docs/1608.SpecialArrayWithXElementsGreaterThanorEqualX)
 
 ## Graphs
 
