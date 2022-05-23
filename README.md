@@ -80,6 +80,7 @@ https://seanprashad.com/leetcode-patterns/
 - [441. Arranging Coins](./docs/441.ArrangingCoins)
 - [744. Find Smallest Letter Greater Than Target](./docs/744.FindSmallestLetterGreaterThanTarget)
 - [852. Peak Index in a Mountain Array](./docs/852.PeakIndexinaMountainArray)
+- [1351. Count Negative Numbers in a Sorted Matrix](./docs/1351.CountNegativeNumbersinaSortedMatrix)
 - [1385. Find the Distance Value Between Two Arrays](./docs/1385.FindtheDistanceValueBetweenTwoArrays)
 - [1539. Kth Missing Positive Number](./docs/1539.KthMissingPositiveNumber)
 - [1608. Special Array With X Elements Greater Than or Equal X](./docs/1608.SpecialArrayWithXElementsGreaterThanorEqualX)
