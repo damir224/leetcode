@@ -66,6 +66,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1046. Last Stone Weight](./docs/1046.LastStoneWeight)
 - [1260. Shift 2D Grid](./docs/1260.Shift2DGrid)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
+- [1346. Check If N and Its Double Exist](./docs/1346.CheckIfNandItsDoubleExist)
 - [1631. Path With Minimum Effort](./docs/1631.PathWithMinimumEffort)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
