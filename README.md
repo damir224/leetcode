@@ -79,6 +79,7 @@ https://seanprashad.com/leetcode-patterns/
 - [367. Valid Perfect Square](./docs/367.ValidPerfectSquare)
 - [374. Guess Number Higher or Lower](./docs/374.GuessNumberHigherorLower)
 - [441. Arranging Coins](./docs/441.ArrangingCoins)
+- [633. Sum of Square Numbers](./docs/633.SumofSquareNumbers)
 - [744. Find Smallest Letter Greater Than Target](./docs/744.FindSmallestLetterGreaterThanTarget)
 - [852. Peak Index in a Mountain Array](./docs/852.PeakIndexinaMountainArray)
 - [1337. The K Weakest Rows in a Matrix](./docs/1337.TheKWeakestRowsinaMatrix)
