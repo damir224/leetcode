@@ -71,6 +71,9 @@ https://seanprashad.com/leetcode-patterns/
 - [1631. Path With Minimum Effort](./docs/1631.PathWithMinimumEffort)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
+## Dynamic Programming
+- [1493. Longest Subarray of 1s After Deleting One Element](./docs/1493.LongestSubarrayof1sAfterDeletingOneElement)
+
 ## Search
 - [33. Search in Rotated Sorted Array](./docs/33.SearchinRotatedSortedArray)
 - [34. Find First and Last Position of Element in Sorted Array](./docs/34.FindFirstandLastPositionofElementinSortedArray)
