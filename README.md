@@ -77,6 +77,7 @@ https://seanprashad.com/leetcode-patterns/
 - [35. Search Insert Position](./docs/35.SearchInsertPosition)
 - [69. Sqrt(x)](./docs/69.Sqrt(x))
 - [74. Search a 2D Matrix](./docs/74.Searcha2DMatrix)
+- [153. Find Minimum in Rotated Sorted Array](./docs/153.FindMinimuminRotatedSortedArray)
 - [278. First Bad Version](./docs/278.FirstBadVersion)
 - [367. Valid Perfect Square](./docs/367.ValidPerfectSquare)
 - [374. Guess Number Higher or Lower](./docs/374.GuessNumberHigherorLower)
