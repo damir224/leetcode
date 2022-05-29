@@ -60,6 +60,7 @@ https://seanprashad.com/leetcode-patterns/
 - [31. Next Permutation](./docs/31.NextPermutation)
 - [167. Two Sum II - Input Array Is Sorted](./docs/167.TwoSumII-InputArrayIsSorted)
 - [189. Rotate Array](./docs/189.RotateArray)
+- [228. Summary Ranges](./docs/228.SummaryRanges)
 - [287. Find the Duplicate Number](./docs/287.FindtheDuplicateNumber)
 - [542. 01 Matrix](./docs/542.01Matrix)
 - [994. Rotting Oranges](./docs/994.RottingOranges)
