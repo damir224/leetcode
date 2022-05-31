@@ -53,6 +53,7 @@ https://seanprashad.com/leetcode-patterns/
 - [856. Score of Parentheses](./docs/856.ScoreofParentheses)
 - [1209. Remove All Adjacent Duplicates in String II](./docs/1209.RemoveAllAdjacentDuplicatesinStringII)
 - [1358. Number of Substrings Containing All Three Characters](./docs/1358.NumberofSubstringsContainingAllThreeCharacters)
+- [1461. Check If a String Contains All Binary Codes of Size K](./docs/1461.CheckIfaStringContainsAllBinaryCodesofSizeK)
 - [1876. Substrings of Size Three with Distinct Characters](./docs/1876.SubstringsofSizeThreewithDistinctCharacters)
 - [2164. Sort Even and Odd Indices Independently](./docs/2164.SortEvenandOddIndicesIndependently)
 
