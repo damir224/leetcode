@@ -1,3 +1,7 @@
+# leetcode Java
+- [704. Binary Search](./docsJava/704.BinarySearch)
+
+
 # leetcode
 
 https://seanprashad.com/leetcode-patterns/
