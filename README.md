@@ -40,6 +40,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1614. Maximum Nesting Depth of the Parentheses](./docs/1614.MaximumNestingDepthoftheParentheses)
 - [1720. Decode XORed Array](./docs/1720.DecodeXORedArray)
 - [1812. Determine Color of a Chessboard Square](./docs/1812.DetermineColorofaChessboardSquare)
+- [2160. Minimum Sum of Four Digit Number After Splitting Digits](./docs/2160.MinimumSumofFourDigitNumberAfterSplittingDigits)
 
 ## String
 - [3. Longest Substring Without Repeating Characters](./docs/3.LongestSubstringWithoutRepeatingCharacters)
