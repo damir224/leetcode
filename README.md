@@ -37,6 +37,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1290. Convert Binary Number in a Linked List to Integer](./docs/1290.ConvertBinaryNumberinaLinkedListtoInteger)
 - [1342. Number of Steps to Reduce a Number to Zero](./docs/1342.NumberofStepstoReduceaNumbertoZero)
 - [1486. XOR Operation in an Array](./docs/1486.XOROperationinanArray)
+- [1491. Average Salary Excluding the Minimum and Maximum Salary](./docs/1491.AverageSalaryExcludingtheMinimumandMaximumSalary)
 - [1523. Count Odd Numbers in an Interval Range](./docs/1523.CountOddNumbersinanIntervalRange)
 - [1614. Maximum Nesting Depth of the Parentheses](./docs/1614.MaximumNestingDepthoftheParentheses)
 - [1720. Decode XORed Array](./docs/1720.DecodeXORedArray)
