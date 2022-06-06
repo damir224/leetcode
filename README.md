@@ -121,6 +121,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Linked List
 - [2. Add Two Numbers](./docs/2.AddTwoNumbers)
 - [19. Remove Nth Node From End of List](./docs/19.RemoveNthNodeFromEndofList)
+- [160. Intersection of Two Linked Lists](./docs/160.IntersectionofTwoLinkedLists)
 - [1721. Swapping Nodes in a Linked List](./docs/1721.SwappingNodesinaLinkedList)
 
 ## Tree
