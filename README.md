@@ -136,3 +136,6 @@ https://seanprashad.com/leetcode-patterns/
 
 ## Stack
 - [225. Implement Stack using Queues](./docs/225.ImplementStackusingQueues)
+
+## Bit manipulation
+- [191. Number of 1 Bits](./docs/191.Numberof1Bits)
