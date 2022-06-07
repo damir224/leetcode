@@ -77,6 +77,7 @@ https://seanprashad.com/leetcode-patterns/
 - [867. Transpose Matrix](./docs/867TransposeMatrix)
 - [994. Rotting Oranges](./docs/994.RottingOranges)
 - [923. 3Sum With Multiplicity](./docs/923.3SumWithMultiplicity)
+- [976. Largest Perimeter Triangle](./docs/976.LargestPerimeterTriangle)
 - [1046. Last Stone Weight](./docs/1046.LastStoneWeight)
 - [1260. Shift 2D Grid](./docs/1260.Shift2DGrid)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
