@@ -84,6 +84,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./docs/1343.NumberofSubarraysofSizeKandAverageGreaterthanorEqualtoThreshold)
 - [1346. Check If N and Its Double Exist](./docs/1346.CheckIfNandItsDoubleExist)
 - [1480. Running Sum of 1d Array](./docs/1480.RunningSumof1dArray)
+- [1502. Can Make Arithmetic Progression From Sequence](./docs/1502.CanMakeArithmeticProgressionFromSequence)
 - [1631. Path With Minimum Effort](./docs/1631.PathWithMinimumEffort)
 - [1779. Find Nearest Point That Has the Same X or Y Coordinate](./docs/1779.FindNearestPointThatHastheSameXorYCoordinate)
 - [1822. Sign of the Product of an Array](./docs/1822.SignoftheProductofanArray)
