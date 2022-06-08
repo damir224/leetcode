@@ -69,6 +69,7 @@ https://seanprashad.com/leetcode-patterns/
 - [4. Median of Two Sorted Arrays](./docs/4.MedianofTwoSortedArrays)
 - [11. Container With Most Water](./docs/11.ContainerWithMostWater)
 - [31. Next Permutation](./docs/31.NextPermutation)
+- [88. Merge Sorted Array](./docs/88.MergeSortedArray)
 - [167. Two Sum II - Input Array Is Sorted](./docs/167.TwoSumII-InputArrayIsSorted)
 - [189. Rotate Array](./docs/189.RotateArray)
 - [228. Summary Ranges](./docs/228.SummaryRanges)
