@@ -76,6 +76,7 @@ https://seanprashad.com/leetcode-patterns/
 - [228. Summary Ranges](./docs/228.SummaryRanges)
 - [287. Find the Duplicate Number](./docs/287.FindtheDuplicateNumber)
 - [542. 01 Matrix](./docs/542.01Matrix)
+- [589. N-ary Tree Preorder Traversal](./docs/589.N-aryTreePreorderTraversal)
 - [867. Transpose Matrix](./docs/867TransposeMatrix)
 - [994. Rotting Oranges](./docs/994.RottingOranges)
 - [923. 3Sum With Multiplicity](./docs/923.3SumWithMultiplicity)
