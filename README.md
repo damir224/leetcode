@@ -75,6 +75,7 @@ https://seanprashad.com/leetcode-patterns/
 - [202. Happy Number](./docs/202.HappyNumber)
 - [228. Summary Ranges](./docs/228.SummaryRanges)
 - [287. Find the Duplicate Number](./docs/287.FindtheDuplicateNumber)
+- [496. Next Greater Element I](./docs/496.NextGreaterElementI)
 - [542. 01 Matrix](./docs/542.01Matrix)
 - [589. N-ary Tree Preorder Traversal](./docs/589.N-aryTreePreorderTraversal)
 - [867. Transpose Matrix](./docs/867TransposeMatrix)
