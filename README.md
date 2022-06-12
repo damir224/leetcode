@@ -88,6 +88,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1346. Check If N and Its Double Exist](./docs/1346.CheckIfNandItsDoubleExist)
 - [1480. Running Sum of 1d Array](./docs/1480.RunningSumof1dArray)
 - [1502. Can Make Arithmetic Progression From Sequence](./docs/1502.CanMakeArithmeticProgressionFromSequence)
+- [1572. Matrix Diagonal Sum](./docs/1572.MatrixDiagonalSum)
 - [1631. Path With Minimum Effort](./docs/1631.PathWithMinimumEffort)
 - [1779. Find Nearest Point That Has the Same X or Y Coordinate](./docs/1779.FindNearestPointThatHastheSameXorYCoordinate)
 - [1790. Check if One String Swap Can Make Strings Equal](./docs/1790.CheckifOneStringSwapCanMakeStringsEqual)
