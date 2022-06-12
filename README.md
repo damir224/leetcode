@@ -90,6 +90,7 @@ https://seanprashad.com/leetcode-patterns/
 - [1502. Can Make Arithmetic Progression From Sequence](./docs/1502.CanMakeArithmeticProgressionFromSequence)
 - [1631. Path With Minimum Effort](./docs/1631.PathWithMinimumEffort)
 - [1779. Find Nearest Point That Has the Same X or Y Coordinate](./docs/1779.FindNearestPointThatHastheSameXorYCoordinate)
+- [1790. Check if One String Swap Can Make Strings Equal](./docs/1790.CheckifOneStringSwapCanMakeStringsEqual)
 - [1822. Sign of the Product of an Array](./docs/1822.SignoftheProductofanArray)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
