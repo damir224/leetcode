@@ -9,6 +9,34 @@ sliding window
 tc = O(n)
 <br/>
 sc = O(1)
+
+```js
+var longestOnes = function (nums, k) {
+  let windowStart = 0,
+    windowEnd = 0,
+    kCount = 0;
+  while (windowEnd < nums.length) {
+    if (nums[windowEnd] === 0) {
+      kCount++;
+    }
+    if (kCount > k) {
+      if (nums[windowStart] === 0) {
+        kCount--;
+      }
+      windowStart++;
+    }
+    windowEnd++;
+  }
+  return windowEnd - windowStart;
+};
+```
+---
+sliding window
+<br/>
+tc = O(n)
+<br/>
+sc = O(1)
+
 ```js
 var longestOnes = function(nums, k) {
   let maxLength = 0, windowStart = 0, flipCount = 0;
