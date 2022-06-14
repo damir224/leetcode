@@ -8,6 +8,29 @@ https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 const longestSubarray = function (nums) {
   let windowStart = 0,
     windowEnd = 0,
+    zeroCount = 2;
+  while (windowEnd < nums.length) {
+    if (nums[windowEnd] === 0) {
+      zeroCount--;
+    }
+    if (zeroCount <= 0) {
+      if (nums[windowStart] === 0) {
+        zeroCount++;
+      }
+      windowStart++;
+    }
+    windowEnd++;
+  }
+  return windowEnd - windowStart - 1;
+};
+```
+
+---
+
+```js
+const longestSubarray = function (nums) {
+  let windowStart = 0,
+    windowEnd = 0,
     windowSum = 0,
     firstZeroIndex = -1;
   while (windowEnd < nums.length) {
