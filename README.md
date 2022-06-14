@@ -52,6 +52,7 @@ https://seanprashad.com/leetcode-patterns/
 - [125. Valid Palindrome](./docs/125.ValidPalindrome)
 - [242. Valid Anagram](./docs/242ValidAnagram)
 - [344. Reverse String](./docs/344.ReverseString)
+- [389. Find the Difference](./docs/389.FindtheDifference)
 - [443. String Compression](./docs/443.StringCompression)
 - [520. Detect Capital](./docs/520.DetectCapital)
 - [557. Reverse Words in a String III](./docs/557.ReverseWordsinaStringIII)
