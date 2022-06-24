@@ -1,4 +1,4 @@
-public class getMaxSetSize3 {
+public class getMaxSetSize4 {
   public static void main(String[] args) {
     int[] arr = { 3, 1, -4, 7, 0, -2 };
     System.out.println(getMaxSetSize(arr));
