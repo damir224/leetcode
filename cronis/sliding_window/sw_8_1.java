@@ -1,4 +1,4 @@
-public class sw_8 {
+public class sw_8_1 {
   public static void main(String[] args) {
     // String str = "ilikedoganddoglikesme";
     // int startIndex = 5;
