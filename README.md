@@ -98,6 +98,8 @@ https://seanprashad.com/leetcode-patterns/
 - [1984. Minimum Difference Between Highest and Lowest of K Scores](./docs/1984.MinimumDifferenceBetweenHighestandLowestofKScores)
 
 ## Dynamic Programming
+- [85. Maximal Rectangle](./docs/85.MaximalRectangle)
+- [509. Fibonacci Number](./docs/509.FibonacciNumber)
 - [1493. Longest Subarray of 1s After Deleting One Element](./docs/1493.LongestSubarrayof1sAfterDeletingOneElement)
 
 ## Search
