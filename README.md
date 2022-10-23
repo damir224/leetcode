@@ -100,6 +100,7 @@ https://seanprashad.com/leetcode-patterns/
 ## Dynamic Programming
 - [85. Maximal Rectangle](./docs/85.MaximalRectangle)
 - [509. Fibonacci Number](./docs/509.FibonacciNumber)
+- [1137. N-th Tribonacci Number](./docs/1137.N-thTribonacciNumber)
 - [1493. Longest Subarray of 1s After Deleting One Element](./docs/1493.LongestSubarrayof1sAfterDeletingOneElement)
 
 ## Search
