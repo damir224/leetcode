@@ -155,3 +155,8 @@ https://seanprashad.com/leetcode-patterns/
 
 ## Bit manipulation
 - [191. Number of 1 Bits](./docs/191.Numberof1Bits)
+
+
+## JS 30 day challenge (https://leetcode.com/studyplan/30-days-of-javascript/)
+- [2634. Filter Elements from Array](./docs/2634.FilterElementsfromArray)
+- [2626. Array Reduce Transformation](./docs/2626.ArrayReduceTransformation)
